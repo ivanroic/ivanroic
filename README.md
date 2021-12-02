@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ivanroic
+- 👋 Hi, I’m Ivan!
 - 👀 I’m interested in iOS development and developments in A/R!
 - 🌱 I’m currently learning SwiftUI and Swift UIKit along with Git, Terminal and XCode
 - 💞️ I’m looking to collaborate on any junior and intermediate level Swift projects
